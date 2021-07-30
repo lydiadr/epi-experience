@@ -1,1 +1,1 @@
-## Website for 'Predictive Modelling, Artificial Intelligence and Decision Support in Health and Medicine'
+## Website for 'From Causation to Controlling Outbreaks: an Epidemiology Experience'
